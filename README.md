@@ -7,4 +7,4 @@ All things cleared this was an incredible proyect guided by a great teacher and 
   - Other cars trated like traffic or objects to avoid
   - The neural network wich takes and input (car sensor) work with weights on the neuron and produce an output(the car movement) and it mutator algorithm
   - We make a graphical way to see how each neuron is working
-  - Finally we add some way of save the "best car" object in memory with a local storage JSON
+  - Finally we add some way of save or delete the "best car" object in memory with a local storage JSON
